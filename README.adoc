@@ -1,0 +1,16 @@
+# TP 6 R2.10 - GPO 2024
+IUT de Blagnac - BUT Info1 - 1A
+__Membres du groupe :__
+- Maxime Peybernes
+- Nicolas Ho
+- Mete Yalçin
+- Naria savary
+
+
+== Livrables
+
+[cols="1,2,2,5",options=header]
+|===
+| Date    | Nom        | Lien                           | Retour
+| 04/04   | Créa repo  | https://www.youtube.com/watch?v=dQw4w9WgXcQ[Vous y êtes déjà] | 
+|         |            |  | 
